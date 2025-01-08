@@ -1,4 +1,4 @@
-# AI-Trading-Bot
+# Trading-Bot
 
 ## An AI-driven trading bot leveraging sentiment analysis with deep learning to automate stock trading decisions, integrating Alpaca's API for real-time market data, backtesting using Yahoo Finance data, and SQL for storing earnings and performance metrics.
 
